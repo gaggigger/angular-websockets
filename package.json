@@ -1,7 +1,7 @@
 {
   "name": "angular-websockets",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple example of how to use angular.js and socket.io with node.js ",
   "main": "app.js",
   "dependencies": {
     "angular": "^1.4.9",
