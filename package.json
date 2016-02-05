@@ -1,0 +1,28 @@
+{
+  "name": "angular-websockets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "angular": "^1.4.9",
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5",
+    "http": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btinoco/angular-websockets.git"
+  },
+  "keywords": [],
+  "author": "btinoco <btinoco.dev@gmail.com> (btinoco.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/btinoco/angular-websockets/issues"
+  },
+  "homepage": "https://github.com/btinoco/angular-websockets#readme"
+}
